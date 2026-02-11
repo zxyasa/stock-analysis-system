@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual env
+.venv/
+
+# Local env
+.env
+config/local.yaml
+
+# Runtime artifacts
+logs/
+stock1.out
+market_data_*/
+old_version_*/
+
+# macOS
+.DS_Store
