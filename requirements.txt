@@ -1,0 +1,7 @@
+pandas
+requests
+yfinance
+akshare
+notion-client
+pytrends
+beautifulsoup4

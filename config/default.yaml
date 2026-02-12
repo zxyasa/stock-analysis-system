@@ -1,0 +1,7 @@
+app:
+  name: stock1
+  timezone: Asia/Shanghai
+report:
+  title: A股日交易分析报告
+paths:
+  output_log: stock1.out
