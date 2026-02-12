@@ -1,0 +1,13 @@
+app:
+  env: local
+
+report:
+  title: A股日交易分析报告
+
+notion:
+  token: ""
+  page_id: ""
+
+telegram:
+  bot_token: ""
+  chat_id: ""
